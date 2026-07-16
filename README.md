@@ -9,6 +9,7 @@ Abra o arquivo `ossec.conf` no caminho abaixo como administrador (usando VSCode,
 ```text
 C:\Program Files (x86)\ossec-agent\ossec.conf
 ```
+![Passo 1 - Editar ossec.conf](imagens/imagem1.png)
 
 Adicione a linha abaixo dentro da seção `<syscheck>`. **Não esqueça de trocar `SEU_USUARIO` pelo seu usuário:**
 
@@ -20,7 +21,7 @@ Adicione a linha abaixo dentro da seção `<syscheck>`. **Não esqueça de troca
 </syscheck>
 ```
 
-![Passo 1 - Editar ossec.conf](imagens/imagem1.png)
+![Passo 1 - Editar ossec.conf](imagens/imagem2.png)
 
 ## 2. Reiniciar Wazuh-Agent
 
