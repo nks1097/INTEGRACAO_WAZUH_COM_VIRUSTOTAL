@@ -59,7 +59,7 @@ Adicione a seguinte configuração (substituindo `API_KEY` pela sua chave real d
   <alert_format>json</alert_format>
 </integration>
 ```
-!(imagens/imagem5.png)
+![Passo 2 - Reiniciar Agente Wazuh](imagens/imagem5.png)
 
 ## 5. Reiniciar WAZUH-MANAGER
 
