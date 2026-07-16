@@ -69,7 +69,7 @@ Reinicie o serviço do manager:
 sudo systemctl restart wazuh-manager
 ```
 
-![Passo 5 - Reiniciar Manager](imagens/imagem4.png)
+![Passo 5 - Reiniciar Manager](imagens/imagem6.png)
 
 ## 6. Criar arquivo eicar.txt
 
@@ -87,4 +87,4 @@ Acesse o dashboard do Wazuh para visualizar os alertas gerados pela detecção d
 
 Crie o arquivo de teste `malwaretest.txt` conforme a necessidade do seu laboratório.
 
-![Passo 8 - Visualizar Alertas / malwaretest.txt](imagens/imagem5.png)
+![Passo 8 - Visualizar Alertas / malwaretest.txt](imagens/imagem5.png
