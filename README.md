@@ -48,7 +48,6 @@ Edite o arquivo de configuração do manager:
 ```bash
 sudo nano /var/ossec/etc/ossec.conf
 ```
-![Passo 2 - Reiniciar Agente Wazuh](imagens/imagem5.png)
 
 Adicione a seguinte configuração (substituindo `API_KEY` pela sua chave real do VirusTotal):
 
@@ -60,6 +59,7 @@ Adicione a seguinte configuração (substituindo `API_KEY` pela sua chave real d
   <alert_format>json</alert_format>
 </integration>
 ```
+!(imagens/imagem5.png)
 
 ## 5. Reiniciar WAZUH-MANAGER
 
