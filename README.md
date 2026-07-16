@@ -32,7 +32,7 @@ net stop Wazuh
 net start Wazuh
 ```
 
-![Passo 2 - Reiniciar Agente Wazuh](imagens/imagem2.png)
+![Passo 2 - Reiniciar Agente Wazuh](imagens/imagem3.png)
 
 ## 3. Registrar no VIRUSTOTAL
 
