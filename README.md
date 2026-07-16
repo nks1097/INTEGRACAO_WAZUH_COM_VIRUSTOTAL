@@ -39,7 +39,7 @@ net start Wazuh
 Acesse o site do VirusTotal para conseguir a sua chave de API (API Key):
 [https://www.virustotal.com/](https://www.virustotal.com/)
 
-![Passo 3 - API VirusTotal](imagens/imagem3.png)
+![Passo 3 - API VirusTotal](imagens/imagem4.png)
 
 ## 4. Configurar WAZUH-MANAGER
 
